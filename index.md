@@ -16,9 +16,7 @@ If you want early access, pilot updates, or to be notified when we launch, add y
   <iframe
     src="https://docs.google.com/forms/d/e/1FAIpQLScJ4gUiY3qurGrkle4u_MEjXf_2ohRaH58JpQtSiDlTCJwkiw/viewform?embedded=true"
     loading="lazy"
-    frameborder="0"
-    marginheight="0"
-    marginwidth="0">
-    Loading…
+    title="Tutoring Interest Form"
+    allowfullscreen>
   </iframe>
 </div>

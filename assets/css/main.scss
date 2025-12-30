@@ -9,19 +9,25 @@
    ============================ */
 
 .form-embed {
-  max-width: 900px;
-  margin: 2rem auto 0 auto;
-  padding: 0 1rem;
+  /* break out of narrow content constraints */
+  max-width: 100%;
+  margin: 2rem 0 0 0;
 }
 
+/* Make the iframe behave like a real block-level element */
 .form-embed iframe {
+  display: block;
   width: 100%;
-  height: 900px;
+  max-width: 900px;      /* nice desktop width */
+  height: 1050px;        /* enough to show most forms */
   border: 0;
+  margin: 0 auto;        /* center on desktop */
 }
 
+/* Mobile: use full width and more height */
 @media (max-width: 600px) {
   .form-embed iframe {
-    height: 1100px;
+    max-width: 100%;
+    height: 1250px;
   }
 }
