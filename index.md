@@ -1,20 +1,24 @@
 ---
-title: "hwb2learning"
-layout: single
+title: "hwb2 Learning"
+layout: splash
 permalink: /
+excerpt: >
+  AI-augmented tutoring and learning workflows for middle-school math. Launching soon.
 ---
 
 ## Coming soon
 
-AI-augmented tutoring and learning workflows for middle school math.
+**hwb2 Learning** is an AI-augmented tutoring service designed to scale high-quality math support without losing the human element.
 
-**Get updates:** [Interest Form](#)  
-(Replace `#` with your Google Form link, or embed it below.)
+If you want early access, pilot updates, or to be notified when we launch, add your info below.
 
-### What I’m building
-- Tutoring workflows that scale without sacrificing quality
-- Fast feedback loops for practice and written work
-- Clear progress tracking for students and parents
-
-### Launch timeline
-Early access and pilot spots opening soon.
+<div class="form-embed">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLScJ4gUiY3qurGrkle4u_MEjXf_2ohRaH58JpQtSiDlTCJwkiw/viewform?embedded=true"
+    loading="lazy"
+    frameborder="0"
+    marginheight="0"
+    marginwidth="0">
+    Loading…
+  </iframe>
+</div>
