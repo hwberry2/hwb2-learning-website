@@ -1,0 +1,22 @@
+title: hwb2learning
+description: "AI-augmented tutoring and learning workflows. Coming soon."
+url: "https://hwb2learning.com"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      toc: false
