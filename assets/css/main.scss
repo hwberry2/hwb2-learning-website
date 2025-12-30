@@ -131,7 +131,14 @@
 
 .site-title {
   white-space: nowrap;
-  font-size: 1.25rem; /* optional; remove if you don't want to change sizing */
+  font-size: 1.25rem; /* optional */
+  position: relative;
+  color: transparent; /* hides the original "hwb2 Learning" text */
+}
+
+.site-title::before,
+.site-title::after {
+  color: inherit; /* inherit masthead link color */
 }
 
 .site-title::before {
